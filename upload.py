@@ -11,7 +11,7 @@ import time
 
 
 class WpaSec(plugins.Plugin):
-    __author__ = 'Terminatoror + 33197631+dadav@users.noreply.github.com'
+    __author__ = 'Terminatoror + Artemio + 33197631+dadav@users.noreply.github.com'
     __version__ = '2.1.0'
     __license__ = 'GPL3'
     __description__ = 'This plugin automatically uploads handshakes to https://wpa-sec.stanev.org'
